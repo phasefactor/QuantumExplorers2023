@@ -2,7 +2,7 @@
 The QE23 challenge is divided into seven badges.
 - [Captain](#captain)
 - [Space Combatant](#space-combatant)
-
+- [Expert Navigator](#expert-navigator)
 
 ## Captain
 Introduction to Qiskit and Quantum Computing.
@@ -49,5 +49,19 @@ Introduction to Qiskit and Quantum Computing.
  
 
 
+## Expert Navigator
 
+### Quiz Topics
+- give the process/steps for defining an optimization problem
+- what are objective, cost, and optimization functions
+- define combinatorial optimization problems and max-cut optimization problems
+- exact vs approximate algorithms, simulated annealing, P vs NP (hard, complete, etc)
+- list features provided by Qiskit Optimization module
+- know Qiskit Sampler primitive's properties
+- conversion of max cut to quadratic optimization
+- explain the QAOA algorithm, what is a mixing circuit?
+- know about quadratic optimization.  steps for solving, relation to Ising Hamiltonians
+- use of Sampler to create Variational Quantum Eigensolver
+- hybrid algorithms and the split of workload between classical and quantum compute
+- knoq about QUBO (optional video)
 
