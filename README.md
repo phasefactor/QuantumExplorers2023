@@ -65,3 +65,11 @@ Introduction to Qiskit and Quantum Computing.
 - hybrid algorithms and the split of workload between classical and quantum compute
 - knoq about QUBO (optional video)
 
+
+
+## Supreme Observer
+
+This badge does not have a quiz, but does contain several coding exercises.
+
+### Things to Know
+- Cartesian Product [(lesson)](https://learning.quantum.ibm.com/course/basics-of-quantum-information/multiple-systems#classical-information)
