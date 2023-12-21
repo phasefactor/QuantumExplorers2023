@@ -1,8 +1,10 @@
 # Notes for [Quantum Explorers 2023](https://challenges.quantum.ibm.com/quantum-explorers-23)
 The QE23 challenge is divided into seven badges.
 - [Captain](#captain)
+- [Time Traveler](#time-traveler)
 - [Space Combatant](#space-combatant)
 - [Expert Navigator](#expert-navigator)
+
 
 ## Captain
 Introduction to Qiskit and Quantum Computing.
@@ -28,6 +30,23 @@ Introduction to Qiskit and Quantum Computing.
   - understanding effects of iterations on accuracy
 - measurement in X and Y bases (instead of Z)
 - annoyingly must read Quantum Kittens chapter 3 for context
+
+
+## Time Traveler
+
+### Quiz Topics
+- Describe quantum error mitigation
+  - know the types: ZNE (zero noise extrapolation), M3, PEC, T-Rex (Twirled Readout Error Extinction)
+- describe quantum error correction
+- know the difference between quantum error mitigation and correction
+- know sources of quantum error
+- tradeoffs of increasing resilience level
+- problems with applying classical error correction to quantum information
+- definition of T1 and T2 values for quantum computers
+- explain syndrome measurement
+- running Qiskit primitives with and without resilience levels
+
+
 
 
 ## Space Combatant
